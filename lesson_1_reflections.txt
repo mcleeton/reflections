@@ -30,4 +30,4 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-   I want to try using Git for a larger project that allows me to utilize diff and log for more practice in use of debugging and development.
+    Fill in your answer here
