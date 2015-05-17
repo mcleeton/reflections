@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+  Using a remote repository allows you to have access to your work from other work spaces, computers, or device than what your    work is locally stored on.
